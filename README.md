@@ -2,6 +2,8 @@
 
 A Python module simulating a robot exhibiting Brownian-like motion in a square arena. The robot moves in straight lines and changes direction randomly upon colliding with boundaries.
 
+https://www.youtube.com/watch?v=9QLnZeQwQe0
+
 ## Features
 
 - Robot movement simulation in a square arena
