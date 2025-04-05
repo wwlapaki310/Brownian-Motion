@@ -1,0 +1,28 @@
+# Brownian Motion Robot Simulation Configuration
+
+# Visualization mode: 'matplotlib' or 'pygame'
+mode: matplotlib
+
+# Arena size
+arena_size: 100.0
+
+# Robot radius
+robot_radius: 2.0
+
+# Movement speed
+speed: 2.0
+
+# Simulation time step
+time_step: 0.5
+
+# Number of simulation steps (for matplotlib mode)
+steps: 1000
+
+# Maximum simulation duration in seconds (for pygame mode)
+duration: 60.0
+
+# Whether to save visualization output
+save_output: true
+
+# Path to save output files
+output_path: output
